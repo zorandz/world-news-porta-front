@@ -1,0 +1,51 @@
+<svg width="21" height="24.167" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="26.167" width="23" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g id="svg_2">
+   <g id="svg_3">
+    <defs fill="#ffffff">
+     <path fill="#ffffff" d="m8.974,21.282c3.288,-2.475 5.787,-5.833 5.777,-10.791c0.009,-0.483 0.389,-0.875 0.866,-0.875c0.473,0 0.857,0.397 0.857,0.865c-0.008,4.893 -3.23,9.058 -7.5,10.801zm3.907,-10.695c0,6.213 -5.087,11.25 -11.363,11.25c-0.295,0 -0.587,-0.011 -0.877,-0.033c2.058,1.256 4.487,1.977 7.126,1.977c6.88,0 12.809,-5.708 12.873,-13.889c-0.005,-0.083 0,-4.444 -4.166,-4.444c-2.52,0 -3.593,1.517 -3.593,4.155c0,0.111 0,0.751 0,0.984z" id="SVGID_1_"/>
+    </defs>
+    <use id="svg_4" fill="#ffffff" clip-rule="evenodd" fill-rule="evenodd" xlink:href="#SVGID_1_"/>
+    <clipPath fill="#ffffff" id="SVGID_2_">
+     <use fill="#ffffff" id="svg_5" xlink:href="#SVGID_1_"/>
+    </clipPath>
+    <g id="svg_6" clip-path="url(#SVGID_2_)">
+     <defs fill="#ffffff">
+      <rect fill="#ffffff" height="269.167" width="319.167" y="-63.718" x="-76.026" id="SVGID_3_"/>
+     </defs>
+     <use id="svg_7" fill="#ffffff" xlink:href="#SVGID_3_"/>
+     <clipPath fill="#ffffff" id="SVGID_4_">
+      <use fill="#ffffff" id="svg_8" xlink:href="#SVGID_3_"/>
+     </clipPath>
+     <rect id="svg_9" height="26.667" width="28.333" fill="#ffffff" clip-path="url(#SVGID_4_)" y="1.282" x="-3.526"/>
+    </g>
+   </g>
+  </g>
+  <g id="svg_10">
+   <g id="svg_11">
+    <defs fill="#ffffff">
+     <path fill="#ffffff" d="m17.888,1.608c-1.099,1.974 -1.366,4.362 -0.904,6.592l0.711,0.41c-0.002,-1.905 0.464,-3.876 1.457,-5.707l0.401,-0.681c0.252,-0.437 0.323,-1.012 -0.229,-1.331c-0.767,-0.442 -1.436,0.717 -1.436,0.717z" id="SVGID_5_"/>
+    </defs>
+    <use id="svg_12" fill="#ffffff" clip-rule="evenodd" fill-rule="evenodd" xlink:href="#SVGID_5_"/>
+    <clipPath fill="#ffffff" id="SVGID_6_">
+     <use fill="#ffffff" id="svg_13" xlink:href="#SVGID_5_"/>
+    </clipPath>
+    <g id="svg_14" clip-path="url(#SVGID_6_)">
+     <defs fill="#ffffff">
+      <rect fill="#ffffff" height="269.167" width="319.167" y="-63.718" x="-76.026" id="SVGID_7_"/>
+     </defs>
+     <use id="svg_15" fill="#ffffff" xlink:href="#SVGID_7_"/>
+     <clipPath fill="#ffffff" id="SVGID_8_">
+      <use fill="#ffffff" id="svg_16" xlink:href="#SVGID_7_"/>
+     </clipPath>
+     <rect id="svg_17" height="15.833" width="11.667" fill="#ffffff" clip-path="url(#SVGID_8_)" transform="matrix(-0.866,-0.5,0.5,-0.866,31.5584,17.5151) " y="-3.387" x="12.292"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
